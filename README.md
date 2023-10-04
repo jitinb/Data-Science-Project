@@ -1,5 +1,5 @@
 # Data-Science-Project
-This project work includes performing some basic analysis using Google Colab on the dataset which has been taken from https://data.gov.in/. The data set is available to be downloaded from the link https://data.gov.in/resource/all-india-consumer-price-index-ruralurban-upto-november-2021. It contains the measure of Consumer Price Indices (CPI) which changes over time in general level of prices of goods and services acquired by various households for the purpose of consumption and are widely used as a macroeconomic indicator of inflation.
+This project work includes performing some basic analysis using Google Colab on the dataset which has been taken from https://data.gov.in/. The data set is available to be downloaded from the link https://data.gov.in/resource/all-india-consumer-price-index-ruralurban-upto-november-2021. The same has been uploaded here as wekll. It contains the measure of Consumer Price Indices (CPI) which changes over time in general level of prices of goods and services acquired by various households for the purpose of consumption and are widely used as a macroeconomic indicator of inflation.
 
 We created the following relevant plots using MatPlotLib:
 (a) Scatter plot
@@ -12,3 +12,5 @@ Some of the obseravtions from these plots:
 2. We made a Line Plot for the rate of Milk and products and fruits in rural areas across different years for the month of December. The inference from this plot is that the rate of milk and products shown a steady rising pattern till the year 2017 when the rate started decreasing for an year and thereafter started increasing slightly from 2018. The rate of fruits also obsevred a similar pattern till the year 2017 after which the rates became stagnant for an year and thereafter again started increasing gradually.
 
 3. Finally we made a bar plot which gives the inference that the  rate of Transport and communication has increased significantly over the years due to increase in the prices of fuel and light.
+
+The relevant python scripts are uploaded in the file PythonScripts.ipynb and can be accessed easily on Google Colab.
